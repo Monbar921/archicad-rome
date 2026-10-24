@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "ArchicadTapir": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "tapir-archicad-mcp",
+        "archicad-server"
+      ]
+    }
+  }
+}
